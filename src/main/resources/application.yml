@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+github:
+  api:
+    base-url: https://api.github.com
+
+logging:
+  level:
+    com.atipera.githubapi: INFO
+    reactor.netty.http.client: DEBUG
