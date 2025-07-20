@@ -88,7 +88,7 @@ github:
 ## Example Usage
 
 ```bash
-# Get repositories for user 'octocat'
+# Get repositories for user 'eds3l'
 curl http://localhost:8080/api/users/EDS3L/repos
 
 # Test error handling
